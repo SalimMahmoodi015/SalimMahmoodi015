@@ -34,7 +34,7 @@ Scans your entire LAN in seconds and identifies every device by OS, hardware ven
 
 - 🔍 Scans 254 hosts concurrently with 50 parallel threads
 - 🖥 OS fingerprinting via ICMP TTL analysis (Windows / Linux / macOS)
-- 🏭 MAC → manufacturer lookup across 60+ vendors via OUI database  
+- 🏭 MAC → manufacturer lookup across 60+ vendors via OUI database
 - 🔓 Port scanner for 15 services — SSH, HTTP, HTTPS, RDP, FTP, and more
 - 📤 CSV export · one-click IP copy · full scan history
 
@@ -93,8 +93,6 @@ Full-stack task tracker with a built-in analytics dashboard — not just a to-do
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SalimMahmoodi015&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalimMahmoodi015&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=SalimMahmoodi015&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="700"/>
